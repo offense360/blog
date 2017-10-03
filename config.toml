@@ -1,4 +1,4 @@
-baseurl = "http://offense360.github.io/"
+baseurl = "https://offense360.github.io/"
 title = "Offense 360"
 languageCode = "ko-KR"
 theme = "hugo-tranquilpeak-theme"
