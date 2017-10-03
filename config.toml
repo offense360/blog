@@ -4,7 +4,7 @@ languageCode = "ko-KR"
 theme = "hugo-tranquilpeak-theme"
 #theme = "mainroad"
 DisqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-107293376-1"
+googleAnalytics = "UA-107293376-1"
 Paginate = 7
 canonifyurls = true
 
