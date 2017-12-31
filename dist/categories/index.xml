@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Offense 360</title>
+    <link>https://offense360.github.io/categories/</link>
+    <description>Recent content in Categories on Offense 360</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 11 Oct 2017 01:19:04 +0900</lastBuildDate>
+    
+	<atom:link href="https://offense360.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://offense360.github.io/categories/architecture/</link>
+      <pubDate>Wed, 11 Oct 2017 01:19:04 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://offense360.github.io/categories/article/</link>
+      <pubDate>Sun, 19 Nov 2017 01:19:04 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>https://offense360.github.io/categories/release/</link>
+      <pubDate>Fri, 06 Oct 2017 01:06:55 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/categories/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://offense360.github.io/categories/security/</link>
+      <pubDate>Fri, 06 Oct 2017 01:06:55 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/categories/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Splunk</title>
+      <link>https://offense360.github.io/categories/splunk/</link>
+      <pubDate>Wed, 11 Oct 2017 01:19:04 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/categories/splunk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

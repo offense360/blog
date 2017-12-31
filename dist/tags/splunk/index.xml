@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Splunk on Offense 360</title>
+    <link>https://offense360.github.io/tags/splunk/</link>
+    <description>Recent content in Splunk on Offense 360</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 11 Oct 2017 01:19:04 +0900</lastBuildDate>
+    
+	<atom:link href="https://offense360.github.io/tags/splunk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>스플렁크 구성과 사이징(Sizing) </title>
+      <link>https://offense360.github.io/2017/10/%EC%8A%A4%ED%94%8C%EB%A0%81%ED%81%AC-%EA%B5%AC%EC%84%B1%EA%B3%BC-%EC%82%AC%EC%9D%B4%EC%A7%95sizing/</link>
+      <pubDate>Wed, 11 Oct 2017 01:19:04 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/2017/10/%EC%8A%A4%ED%94%8C%EB%A0%81%ED%81%AC-%EA%B5%AC%EC%84%B1%EA%B3%BC-%EC%82%AC%EC%9D%B4%EC%A7%95sizing/</guid>
+      <description>본 자료는 스플렁크 .conf 2015의 자료 Architecting and Sizing your Splunk Deployment 와 몇몇 개인적인 조사에 기반을 두고 있습니다.</description>
+    </item>
+    
+  </channel>
+</rss>

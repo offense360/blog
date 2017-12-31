@@ -9,6 +9,10 @@ tags:
 keywords:
 - Markdown                                                                                  
 - orchestration
+thumbnailImagePosition: left
+thumbnailImage: ../keep-calm-and-markdown.png
+#coverImage: keep-calm-and-markdown.png
+metaAlignment: center
 ---
 # 헤더
 

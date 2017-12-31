@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article on Offense 360</title>
+    <link>https://offense360.github.io/categories/article/</link>
+    <description>Recent content in Article on Offense 360</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 19 Nov 2017 01:19:04 +0900</lastBuildDate>
+    
+	<atom:link href="https://offense360.github.io/categories/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>System restart required</title>
+      <link>https://offense360.github.io/2017/11/system-restart-required/</link>
+      <pubDate>Sun, 19 Nov 2017 01:19:04 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/2017/11/system-restart-required/</guid>
+      <description>우분투 터미널에 로그인을 하면
+Welcome to Ubuntu 16.04.3 LTS (GNU/Linux 4.4.0-96-generic x86_64) * Documentation: https://help.ubuntu.com * Management: https://landscape.canonical.com * Support: https://ubuntu.com/advantage 1 package can be updated. 0 updates are security updates. *** System restart required *** Last login: Wed Nov 15 15:06:18 2017 from 192.168.0.23 user@ubuntu:~$  궁금증 왜 *** System restart required *** 라는 문구가 나오는것인가?
+저 문구가 나오게 되는것은 리부팅 이후에만 적용이 가능한
+ kernel 업그레이드 OS의 핵심에 영향을 받는 서비스의 변경 핵심 C/C++ 라이브러리 변경 보안 업데이트 적용을 위한 리부팅이 필요한 경우(예.</description>
+    </item>
+    
+    <item>
+      <title>Welcome Markdown</title>
+      <link>https://offense360.github.io/2017/10/welcome-markdown/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://offense360.github.io/2017/10/welcome-markdown/</guid>
+      <description>헤더 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 Alternatively, for H1 and H2, an underline-ish style: Alt-H1 ====== Alt-H2 ------  H1 H2 H3 H4 H5 H6 Alternatively, for H1 and H2, an underline-ish style:
+Alt-H1 Alt-H2 강조 강조는 이탤릭체로 표기되고 *한개의별표* 또는 _싱글언더스코어_. 강한 강조는 볼드체로 표기되고 **두개의별표** 또는 __더블언더스코어__. Combined emphasis with **asterisks and _underscores_**. Strikethrough uses two tildes. ~~Scratch this.~~  강조는 이탤릭체로 표기되고 한개의별표 or 싱글언더스코어.</description>
+    </item>
+    
+  </channel>
+</rss>
